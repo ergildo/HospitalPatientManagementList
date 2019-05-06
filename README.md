@@ -8,7 +8,7 @@ to see if it is their time to be seen by the doctor. Other times emergency cases
 to jump into the middle of the list of patients to be seen, as they are in a more critical position.
 Design and implement a command line application that allows the receptionist of the hospital to add
 new patents to a list, check the position of a current person by name in the list, and add or remove
-people from the list at different positions.</p>
+people from the list at different positions.
 Must use a Linked List data structure to store the data of patients.
 Specific Requirements
 • This assignment is focused upon the application of a Linked List data storage solution.
@@ -65,5 +65,5 @@ the linked list, encapsulating the process.
 list.
 10
 8- Can update information for a single patient, without impacting
-their position in the list.
+their position in the list. </p>
 
